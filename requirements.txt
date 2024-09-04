@@ -1,0 +1,6 @@
+Flask
+gunicorn
+numpy
+opencv-python
+yolov6detect
+onnxruntime
