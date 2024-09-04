@@ -1,6 +1,6 @@
-[website](https://kheti-ai.onrender.com/home)
 # SIH24
-It is a group based project
+It is a group based project our 
+**[website](https://kheti-ai.onrender.com/home)**
 
 # Plant Health Detection App
 
